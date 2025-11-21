@@ -45,3 +45,11 @@ Top predictors of churn:
 
 ## 9. Conclusion
 The CRM analysis revealed that contract type, tenure, and monthly charges are the key factors driving churn. By focusing on long-term contracts, pricing optimization, and better customer support, the company can significantly improve retention rates and overall profitability.
+
+## 10. Dashboards
+
+![Dashboard 1](Churn_D1.jpg)
+
+![Dashboard 2](Churn_D2.jpg)
+
+![Dashboard 3](Churn_D3.jpg)
